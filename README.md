@@ -8,43 +8,43 @@ Resource management and other closed-loop control that adapt through RL policy t
 
 Youngseok Lee · Ph.D. Candidate, Dept. of Electrical & Computer Engineering, Sungkyunkwan University · [yslee.gs@gmail.com](mailto:yslee.gs@gmail.com) · [Google Scholar](https://scholar.google.com/citations?user=GhwtxtgAAAAJ)
 
-[PDF (25 pages)](YoungseokLee_Portfolio.pdf): research portfolio (pages 1–13) · Korean résumé (pages 14–15) · curriculum vitae (pages 16–25)
+[PDF (25 pages)](YoungseokLee_Portfolio.pdf): Korean résumé (pages 1–2) · research portfolio (pages 3–15) · curriculum vitae (pages 16–25)
 
 [PPTX (research portfolio, 13 slides)](YoungseokLee_Portfolio.pptx)
 
-## Research Portfolio
-
-![1. Closed-Loop Control Systems Robust to Objective and Environment Shift](pages/page-01.png)
-
-![2. Introduction](pages/page-02.png)
-
-![3. Research Coverage](pages/page-03.png)
-
-![4. Repot — Transferable RL for Networked Monitoring](pages/page-04.png)
-
-![5. XferQoE — QoS-Pretrained Rate Control for Model Serving](pages/page-05.png)
-
-![6. XferQoE — Frozen Rate Controller on a Real Wi-Fi Link with a Simulated Robot](pages/page-06.png)
-
-![7. Physical-AI PoC — Code-as-Policies Demo, RFM Fine-Tuning](pages/page-07.png)
-
-![8. LDuS — LLM-Guided Skill Diffusion for Policy Adaptation](pages/page-08.png)
-
-![9. AgentV2G — Agentic V2G Fleet Scheduling Under Drift](pages/page-09.png)
-
-![10. Federated Edge Inference](pages/page-10.png)
-
-![11. NVMe-oF Storage Simulator with a DNN Surrogate](pages/page-11.png)
-
-![12. Off-Board Robot Foundation Models — Serving Control Under Network Delay](pages/page-12.png)
-
-![13. Summary and Contact](pages/page-13.png)
-
 ## Korean Résumé (이력서)
 
-![14. 이력서 1/2](pages/page-14.png)
+![1. 이력서 1/2](pages/page-01.png)
 
-![15. 이력서 2/2](pages/page-15.png)
+![2. 이력서 2/2](pages/page-02.png)
+
+## Research Portfolio
+
+![3. Closed-Loop Control Systems Robust to Objective and Environment Shift](pages/page-03.png)
+
+![4. Introduction](pages/page-04.png)
+
+![5. Research Coverage](pages/page-05.png)
+
+![6. Repot — Transferable RL for Networked Monitoring](pages/page-06.png)
+
+![7. XferQoE — QoS-Pretrained Rate Control for Model Serving](pages/page-07.png)
+
+![8. XferQoE — Frozen Rate Controller on a Real Wi-Fi Link with a Simulated Robot](pages/page-08.png)
+
+![9. Physical-AI PoC — Code-as-Policies Demo, RFM Fine-Tuning](pages/page-09.png)
+
+![10. LDuS — LLM-Guided Skill Diffusion for Policy Adaptation](pages/page-10.png)
+
+![11. AgentV2G — Agentic V2G Fleet Scheduling Under Drift](pages/page-11.png)
+
+![12. Federated Edge Inference](pages/page-12.png)
+
+![13. NVMe-oF Storage Simulator with a DNN Surrogate](pages/page-13.png)
+
+![14. Off-Board Robot Foundation Models — Serving Control Under Network Delay](pages/page-14.png)
+
+![15. Summary and Contact](pages/page-15.png)
 
 ## Curriculum Vitae
 
