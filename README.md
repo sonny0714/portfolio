@@ -1,8 +1,8 @@
 # Research Portfolio
 
-**Closed-Loop Control Systems Robust to Objective and Environment Shift**
+**QoE-Driven Control of Models and Algorithms under Environment Shift**
 
-Resource management and other closed-loop control that adapt through RL policy transfer and LLM agents, built and validated through systems engineering
+Four control targets for QoE (quality of experience): model input (transmission rate, frame quality), model adaptation, inference placement, and solver-ready problem formulation
 
 ① Reinforcement Learning — Resource Management & Cloud Robotics · ② Agentic AI — LLM Agents for System Operation (Robotics & V2G) · ③ Systems Engineering — Simulators, Testbeds, Protocols & Deployment
 
@@ -20,7 +20,7 @@ Youngseok Lee · Ph.D. Candidate, Dept. of Electrical & Computer Engineering, Su
 
 ## Research Portfolio
 
-![3. Closed-Loop Control Systems Robust to Objective and Environment Shift](pages/page-03.png)
+![3. QoE-Driven Control of Models and Algorithms under Environment Shift](pages/page-03.png)
 
 ![4. Introduction](pages/page-04.png)
 
